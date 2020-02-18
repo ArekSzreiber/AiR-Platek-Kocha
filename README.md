@@ -4,13 +4,13 @@
 
 ### Some background:
 
-This  is project I have written during my studies in Gdansk University of Techlonogy in 2016.
-The program is written in C++.
-Methods, variables and comments are in Polis.h
+   This  is project I have written during my studies in Gdansk University of Techlonogy in 2016.  
+   The program is written in C++.  
+   Methods, variables and comments are in Polis.h  
 
 
 ### My reflections:
 
-The program would be much shorter if was written in Python.
-However, I think variable names and comments are very descriptive.
-I wrote it a long time ago, but I feel comfortable reading it.
+   The program would be much shorter if was written in Python.  
+   However, I think variable names and comments are very descriptive.  
+   I wrote it a long time ago, but I feel comfortable reading it.  
