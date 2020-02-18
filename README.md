@@ -1,6 +1,6 @@
 # AiR-Platek-Kocha
 
-## The program generates a [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake) with a selected degree of depth into a selected ps file.
+## The program generates a [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake "Wikipedia about Koch snowflake") with a selected degree of depth into a selected ps file.
 
 
 
